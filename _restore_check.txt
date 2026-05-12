@@ -1,0 +1,14 @@
+original_file=/mnt/data/index.html
+cleaned_file=index.html
+cleaned_bytes=123709
+doctype_count=1
+html_open_count=1
+html_close_count=1
+head_open_count=1
+head_close_count=1
+body_open_count=1
+body_close_count=1
+contains_yandex_cache_hdr=False
+contains_yandexwebcache=False
+contains_base_href=False
+media_refs=/favicon.ico, /favicon.svg, /apple-touch-icon.png, /site.webmanifest, https://snos-telegram.github.io/og-image.png

@@ -1,0 +1,8 @@
+User-agent: Yandex
+Allow: /
+Host: snos-telegram.github.io
+Sitemap: https://snos-telegram.github.io/sitemap.xml
+
+User-agent: *
+Allow: /
+Sitemap: https://snos-telegram.github.io/sitemap.xml
